@@ -1,16 +1,42 @@
 [
   {
-    "name": "jsilva",
+    "id": "r1",
+    "name": "Jsilva",
     "address": "luanda/angola",
     "cuisine": "Angolana",
     "website": "http://www.jsilva.ao",
     "description": "It is a wonderful place to eat."
   },
   {
+    "id": "r2",
     "name": "Bar da Tigra",
     "address": "UBV",
     "cuisine": "Angolana",
     "website": "http://www.bardatigra.ao",
     "description": "Urbanização Boa Vida"
+  },
+  {
+    "id": "r3",
+    "name": "Calemba Restaurant",
+    "address": "Calemba 2",
+    "cuisine": "Angolana",
+    "website": "http://www.example.com",
+    "description": "O restaurante da banda"
+  },
+  {
+    "name": "Shaquila place",
+    "address": "Sapu, Rua 2",
+    "cuisine": "Angolana",
+    "website": "http://www.example.com",
+    "description": "It's a very funny place",
+    "id": "8d9f500c-781e-47f4-aacf-955190d96d2f"
+  },
+  {
+    "name": "Test",
+    "address": "K. kiaxi, Luanda",
+    "cuisine": "Angolana",
+    "website": "http://www.example.com",
+    "description": "test description",
+    "id": "4f95c9be-af6d-40d1-bc51-295d3dcfcfc5"
   }
 ]
